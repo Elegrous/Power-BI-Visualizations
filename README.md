@@ -6,6 +6,6 @@ Power BI Visualisation from XML file
 
 DataSourse: Apple Health App
 
-![]() //add image
+![image](https://user-images.githubusercontent.com/44158648/153914148-586313c3-5ce7-41bf-bfd2-05617e44e919.png)
 
-# [Project 2: ]()
+
